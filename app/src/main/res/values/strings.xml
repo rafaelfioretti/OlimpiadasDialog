@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">OlimpiadasDialog</string>
+    <string name="ingressos">Ingressos</string>
+    <string name="nome">Nome:</string>
+    <string name="idade">Idade:</string>
+    <string name="modalidade">Modalidade:</string>
+    <string name="periodo">Período:</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="rb_manha">Manhã (9h - 12h)</string>
+    <string name="rb_tarde">Tarde (13h - 18h)</string>
+    <string name="rb_noite">Noite (18h - 23h)</string>
+    <string name="reservar">Reservar</string>
+    <string name="confirmação">Confirmação</string>
+
+    <string-array name="modalidade">
+        <item>Basquete</item>
+        <item>Futebol</item>
+        <item>Natação</item>
+    </string-array>
+</resources>
